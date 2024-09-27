@@ -4,14 +4,22 @@
 Welcome to my GitHub profile! I'm a passionate technologist, full-stack developer, and problem solver.
 -->
 
-- 🔭 I’m currently working on **Java Full Stack Projects** and exploring **Spring Boot** and **Hibernate** for building scalable applications.
-- 🌱 I’m currently learning **iOS development** using Swift and enhancing my skills in **GraphQL APIs** and **React-based UI frameworks**.
-- 👯 I’m looking to collaborate on **mobile app development** projects and open-source contributions related to **full-stack development**.
-- 🤔 I’m looking for help with **low/no-code automation** platforms and exploring innovative workflow solutions.
-- 💬 Ask me about **Java**, **Spring Boot**, **Swift/iOS Development**, and **full-stack project design**.
-- 📫 How to reach me: [anushka.jain@example.com](mailto:anushka.jain@example.com)
-- 😄 Pronouns: She/Her
+- 📫 How to reach me: [anushkajain260@gmail.com](mailto:anushkajain260@gmail.com)
 - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
+
+Languages and Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
