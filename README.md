@@ -23,16 +23,12 @@
   </div>
 
 
-  <h3>Achievements</h3>
-  <p>
-    - [The Toolbox: Tartanelli Edition #2823](https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7244811635624701952--Uu2?utm_source=share&utm_medium=member_desktop)
-  </p>
+ ### Achievements
+ - [The Toolbox: Tartanelli Edition #2823](https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7244811635624701952--Uu2?utm_source=share&utm_medium=member_desktop)
 
-  <h3>Let's Connect</h3>
-  <p>
-    - 📹 **YouTube Channel:** [Coding With Didiiiiii](https://www.youtube.com/@DiiCodeJain)<br>
-    - 💼 I'm actively seeking full-stack or mobile app development roles. Let's connect!
-  </p>
-</div>
+### Let's Connect
 
-<p>Thanks for visiting my profile! 😄</p>
+- 📹 Check out my **YouTube Channel**: [Coding With Didiiiiii](https://www.youtube.com/@DiiCodeJain)
+- 💼 I'm actively seeking full-stack or mobile app development roles. Let's connect!
+
+Thanks for visiting my profile! 😄
