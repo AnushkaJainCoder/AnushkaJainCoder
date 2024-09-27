@@ -23,7 +23,7 @@
       </p>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" alt="Animated Image" width="200" height="200"/>
+      <img src="C:\Users\91730\Videos\anushka.mp4" alt="Animated Image" width="200" height="200"/>
     </td>
   </tr>
 </table>
