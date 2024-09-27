@@ -1,27 +1,37 @@
 ## Hi there 👋 I'm Anushka Jain!
 
-<!--
-Welcome to my GitHub profile! I'm a passionate technologist, full-stack developer, and problem solver.
--->
+- 📫 How to reach me: [anushkajain260@gmail.com](mailto:anushkajain260@gmail.com)
+- ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
+## Hi there 👋 I'm Anushka Jain!
 
 - 📫 How to reach me: [anushkajain260@gmail.com](mailto:anushkajain260@gmail.com)
 - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
 
-### Languages and Tools:
+<table>
+  <tr>
+    <td>
+      <h3>Languages and Tools:</h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="display:inline-block;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="display:inline-block;"/>
+      </p>
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/200" alt="Your Image" width="200" height="200" style="display:inline-block;"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="display:inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="display:inline-block;"/>
-</p>
+---
 
 ---
 
