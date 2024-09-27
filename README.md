@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Jain!</h1>
 
-  <div style="text-align: center; padding: 10px; width: 50%;">
-    <img src="https://i.pinimg.com/originals/d6/47/b4/d647b456928a2d3672f45cc782a94b35.gif" alt="Animated Image" style="width: 100%; height: auto;"/>
-  </div>
+ 
 <div style="display: flex; flex-direction: column; align-items: center; padding: 10px;">
   <p>
     - 📫 **How to reach me:** <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a><br><br>
