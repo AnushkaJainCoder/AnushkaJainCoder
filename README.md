@@ -4,10 +4,20 @@
 - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
 ## Hi there 👋 I'm Anushka Jain!
 
-- 📫 How to reach me: [anushkajain260@gmail.com](mailto:anushkajain260@gmail.com)
-- ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
+
+
 
 <table>
+  <tr>
+    <td>
+      - 📫 How to reach me: [anushkajain260@gmail.com](mailto:anushkajain260@gmail.com)
+    </td>
+  </tr>
+   <tr>
+    <td>
+      - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
+    </td>
+  </tr>
   <tr>
     <td>
       <h3>Languages and Tools:</h3>
@@ -28,7 +38,7 @@
     <td>
       <img src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif" alt="An Animated Image" width="200" height="200" style="display:inline-block;"/>
 
-    </td>
+    
   </tr>
 </table>
 
