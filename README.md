@@ -29,9 +29,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="display:inline-block;"/>
       </p>
     </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif" alt="An Animated Image" width="200" height="200" style="display:inline-block;"/>
-
+     <td>
+      <img src="https://i.pinimg.com/originals/44/d8/50/44d850794ff1968ca0b53cdafedf173c.gif" alt="An Animated Image" width="200" height="200" style="display:inline-block;"/>
+    </td>
     
   </tr>
 </table>
