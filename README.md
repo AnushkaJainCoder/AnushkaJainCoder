@@ -22,7 +22,7 @@
     </p>
   </div>
 
-  <div style="flex: 1; padding: 10px;">
+   <div style="flex: 1; padding: 10px; text-align: center;">
     <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" alt="Animated Image" width="200" height="200" style="display:block;"/>
   </div>
   
