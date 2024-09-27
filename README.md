@@ -29,7 +29,7 @@
 </table>
 ### Let's Connect
 
-- 📹 Check out my **YouTube Channel**: [Coding With Didiiiiii](https://youtube.com/@DiiCodeJain)
+- 📹 Check out my **YouTube Channel**: [Coding With Didiiiiii](https://www.youtube.com/@DiiCodeJain)
 - 💼 I'm actively seeking full-stack or mobile app development roles. Let's connect!
 
 Thanks for visiting my profile! 😄
