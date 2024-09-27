@@ -1,4 +1,4 @@
-                                                             ## Hi there 👋 I'm Anushka Jain!
+<h1 align="center">Hi there 👋 I'm Anushka Jain!</h1>
 
 
 <table style="width: 100%; border-collapse: collapse;">
