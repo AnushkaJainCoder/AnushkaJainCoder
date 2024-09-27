@@ -1,17 +1,9 @@
-
 ## Hi there 👋 I'm Anushka Jain!
 
+- 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a>
+- ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
+
 <table>
-  <tr>
-    <td>
-      - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a>
-    </td>
-  </tr>
-   <tr>
-    <td>
-      - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
-    </td>
-  </tr>
   <tr>
     <td>
       <h3>Languages and Tools:</h3>
@@ -29,10 +21,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="display:inline-block;"/>
       </p>
     </td>
-     <td>
-      <img src="https://i.pinimg.com/originals/44/d8/50/44d850794ff1968ca0b53cdafedf173c.gif" alt="An Animated Image" width="200" height="200" style="display:inline-block;"/>
+    <td>
+      <img src="https://i.pinimg.com/originals/44/d8/50/44d850794ff1968ca0b53cdafedf173c.gif" alt="Animated Image" width="200" height="200" style="display:inline-block;"/>
     </td>
-    
   </tr>
 </table>
 
