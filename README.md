@@ -27,11 +27,17 @@
     </td>
   </tr>
 </table>
-The Toolbox: Tartanelli Edition #2823
-An art piece to celebrate the GitHub Skills, Projects, and Collaborations Journey of Anushka Jain!
+<h2>The Toolbox: Tartanelli Edition #2823</h2>
+<p>
+  An art piece to celebrate the GitHub Skills, Projects, and Collaborations Journey of Anushka Jain!
 
-Story:
+</p>
+<h3>
+    Story:
+</h3>
+<p>
 "Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."
+  </p>
 ### Let's Connect
 
 - 📹 Check out my **YouTube Channel**: [Coding With Didiiiiii](https://www.youtube.com/@DiiCodeJain)
