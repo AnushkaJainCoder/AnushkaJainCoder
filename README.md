@@ -28,50 +28,6 @@
   </tr>
 </table>
 
-<h3 align="center">Most Used Languages</h3>
-<canvas id="languagePieChart" width="400" height="400"></canvas>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  const ctx = document.getElementById('languagePieChart').getContext('2d');
-  const languagePieChart = new Chart(ctx, {
-    type: 'pie',
-    data: {
-      labels: ['Java', 'Python', 'C++', 'Spring Boot', 'React', 'MongoDB', 'MySQL', 'NodeJS', 'Swift', 'Git', 'Firebase'],
-      datasets: [{
-        label: 'Most Used Languages',
-        data: [30, 25, 10, 15, 10, 5, 5, 5, 5, 5, 5], // Change these values based on your usage
-        backgroundColor: [
-          '#FF6384',
-          '#36A2EB',
-          '#FFCE56',
-          '#4BC0C0',
-          '#9966FF',
-          '#FF9F40',
-          '#FF5733',
-          '#C70039',
-          '#900C3F',
-          '#581845',
-          '#FFC300'
-        ],
-        hoverOffset: 4
-      }]
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: {
-          position: 'top',
-        },
-        title: {
-          display: true,
-          text: 'Most Used Languages'
-        }
-      }
-    }
-  });
-</script>
-
 ### Let's Connect
 
 - 📹 Check out my **YouTube Channel**: [Coding With Didiiiiii](https://youtube.com/@DiiCodeJain)
