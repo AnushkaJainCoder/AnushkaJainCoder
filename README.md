@@ -34,10 +34,3 @@
 
 Thanks for visiting my profile! 😄
 
-
-make the format as it is and 
-Creds titled: 'The Toolbox: Tartanelli Edition #2823' - an art piece to celebrate the GitHub Skills, Projects, and Collaborations Journey of Anushka Jain!
-
-Story: "Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."
-
-add link as an achievement
