@@ -26,7 +26,7 @@
       </p>
     </td>
     <td>
-      <img src="https://via.placeholder.com/200" alt="Your Image" width="200" height="200" style="display:inline-block;"/>
+      <img src="https://via.placeholder.com/200" alt="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif" width="200" height="200" style="display:inline-block;"/>
     </td>
   </tr>
 </table>
