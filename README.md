@@ -22,7 +22,7 @@
       </p>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/44/d8/50/44d850794ff1968ca0b53cdafedf173c.gif" alt="Animated Image" width="200" height="200" style="display:inline-block;"/>
+      <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" alt="Animated Image" width="200" height="200" style="display:inline-block;"/>
     </td>
   </tr>
 </table>
