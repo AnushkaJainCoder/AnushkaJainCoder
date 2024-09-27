@@ -7,7 +7,6 @@
       <p>
         - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a> <br>
         - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism! <br>
-        - **Languages and Tools:** Java, Python, C++, Spring Boot, React, MongoDB, MySQL, NodeJS, Swift, Git, Firebase
       </p>
     </td>
     <td style="text-align: center; padding: 10px;">
