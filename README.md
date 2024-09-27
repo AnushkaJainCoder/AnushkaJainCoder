@@ -1,16 +1,10 @@
+
 ## Hi there 👋 I'm Anushka Jain!
-
-- 📫 How to reach me: [anushkajain260@gmail.com](mailto:anushkajain260@gmail.com)
-- ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
-## Hi there 👋 I'm Anushka Jain!
-
-
-
 
 <table>
   <tr>
     <td>
-      - 📫 How to reach me: [anushkajain260@gmail.com](mailto:anushkajain260@gmail.com)
+      - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a>
     </td>
   </tr>
    <tr>
