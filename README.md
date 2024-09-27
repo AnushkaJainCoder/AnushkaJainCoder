@@ -5,7 +5,7 @@
   <tr>
     <td style="vertical-align: top; padding: 10px;">
       <p>
-        - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a> <br>
+        - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a> <br><br>
         - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism! <br>
          <h3>Languages and Tools:</h3>
     <p align="left">
