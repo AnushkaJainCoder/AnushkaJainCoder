@@ -1,19 +1,20 @@
 ## Hi there 👋 I'm Anushka Jain!
 
-<div style="display: flex;">
 
-  <div style="flex: 1; padding: 10px;">
-    <p align="left">
-      - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a> <br>
-      - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
-    </p>
-  </div>
-
-  <div style="flex: 1; padding: 10px; text-align: center;">
-    <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" alt="Animated Image" width="200" height="200" style="display:block;"/>
-  </div>
-  
-</div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding: 10px;">
+      <p>
+        - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a> <br>
+        - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism! <br>
+        - **Languages and Tools:** Java, Python, C++, Spring Boot, React, MongoDB, MySQL, NodeJS, Swift, Git, Firebase
+      </p>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" alt="Animated Image" width="200" height="200"/>
+    </td>
+  </tr>
+</table>
 
 <div style="display: flex; align-items: center;">
 
