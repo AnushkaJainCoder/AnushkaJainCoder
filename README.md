@@ -3,7 +3,7 @@
 - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a>
 - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
 
-<table>
+<table  style="border: none;">
   <tr>
     <td>
       <h3>Languages and Tools:</h3>
