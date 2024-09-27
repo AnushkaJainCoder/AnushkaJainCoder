@@ -1,5 +1,16 @@
 <h1 align="center">Hi there 👋 I'm Anushka Jain!</h1>
 
+<h2 align="center">Creds titled: 'The Toolbox: Tartanelli Edition #2823'</h2>
+<p align="center">
+  <em>An art piece to celebrate the GitHub Skills, Projects, and Collaborations Journey of Anushka Jain!</em>
+</p>
+<p align="center">
+  <strong>Story:</strong> "Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."
+</p>
+<p align="center">
+  - 🌟 Check my achievements: <a href="your-achievement-link-here" target="_blank">Achievements</a>
+</p>
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; padding: 10px;">
@@ -27,6 +38,7 @@
     </td>
   </tr>
 </table>
+
 ### Let's Connect
 
 - 📹 Check out my **YouTube Channel**: [Coding With Didiiiiii](https://www.youtube.com/@DiiCodeJain)
