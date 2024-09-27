@@ -30,18 +30,6 @@
 </table>
 
 
-  
-
-
----
-
-### Projects I'm Proud Of
-
-- **[Jetflix](https://github.com/AnushkaJainCoder/Jetflix)**: A movie discovery platform built with Java (Spring Boot), React, and MongoDB.
-- **[BookValt](https://github.com/AnushkaJainCoder/BookValt)**: A full-stack book management system built with the MERN stack.
-- **[ClubConnect](https://github.com/AnushkaJainCoder/ClubConnect)**: An iOS app for managing club activities and events using **Swift** and **Firebase**.
-- **[Online Java Compiler](https://github.com/AnushkaJainCoder/OnlineJavaCompiler)**: A real-time Java compiler with file management and secure storage using **MERN stack**.
-
 ### Let's Connect
 
 - 📹 Check out my **YouTube Channel**: [Coding With Didiiiiii](https://youtube.com/@DiiCodeJain)
