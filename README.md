@@ -3,9 +3,9 @@
 - 📫 How to reach me: <a href="mailto:anushkajain260@gmail.com">anushkajain260@gmail.com</a>
 - ⚡ Fun fact: My name means "a ray of hope"—I start each day with fresh optimism!
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
       <h3>Languages and Tools:</h3>
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="display:inline-block;"/>
@@ -21,7 +21,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="display:inline-block;"/>
       </p>
     </td>
-    <td style="border: none;">
+    <td style="border: none; padding: 0;">
       <img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif" alt="Animated Image" width="200" height="200" style="display:inline-block;"/>
     </td>
   </tr>
