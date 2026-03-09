@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anushkajain260@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qx9xbdUGPIZtCcauCtH843XKRauFfLtu/view?usp=drive_link](https://drive.google.com/file/d/1qx9xbdUGPIZtCcauCtH843XKRauFfLtu/view?usp=drive_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1lFAWB3FWe-4dY2Lzz0YY5cscTWLIaKDa/edit](https://docs.google.com/document/d/1lFAWB3FWe-4dY2Lzz0YY5cscTWLIaKDa/edit)
 
 - ⚡ Fun fact **My name means "a ray of hope"—I start each day with fresh optimism!**
 
