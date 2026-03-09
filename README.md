@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **iOS, Java, React**
 
-- 📫 How to reach me **anushkajain260@gmail.com**
+- 📫 How to reach me **jainanushka670@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1lFAWB3FWe-4dY2Lzz0YY5cscTWLIaKDa/edit](https://docs.google.com/document/d/1lFAWB3FWe-4dY2Lzz0YY5cscTWLIaKDa/edit)
 
