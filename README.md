@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, MERN**
 
-- 💬 Ask me about **iOS, Java, React**
+- 💬 Ask me about **iOS, Java, React, .Net**
 
 - 📫 How to reach me **jainanushka670@gmail.com**
 
